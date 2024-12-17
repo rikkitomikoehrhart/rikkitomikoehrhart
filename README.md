@@ -8,9 +8,8 @@ I am actively involved with **Phi Theta Kappa Honors Society** and **WIT (Women 
 ---
 
 ### I am currently working on...
-- 🕸️ Certificate of Web Programming (Dec 2024)
 - 👩‍🎓 Associates of Applied Science Web Programming (May 2025)
-- 👩‍🎨 Certificate of Codign & Design (May 2024)
+- 👩‍🎨 Certificate of Coding & Design (May 2025)
 - 💼 My Portfolio Website
 - 👩‍💻 Application into the Bachelors of Software Developemnt at Austin Community College
 - 🎶 Programming Intership with Hurley Piano!!!
@@ -20,3 +19,6 @@ I am actively involved with **Phi Theta Kappa Honors Society** and **WIT (Women 
 - ☕️ Object Oriented Programming (Java)
 - 📱 Mobile Application Development
 - 🕷 Intermediate Web Programming
+
+### I have completed...
+- 🕸️ Certificate of Web Programming (Dec 2024)
