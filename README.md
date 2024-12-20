@@ -15,10 +15,11 @@ I am actively involved with **Phi Theta Kappa Honors Society** and **WIT (Women 
 - 🎶 Programming Intership with Hurley Piano!!!
 
 ### I am currently learning...
-- ☁️ Introduction to Storage Management Cloud Computing
-- ☕️ Object Oriented Programming (Java)
-- 📱 Mobile Application Development
-- 🕷 Intermediate Web Programming
+- 🎮 Godot!
+- 🎹 Practicum - CIT (Internship with Hurley Piano!)
+- 📱 Special Topics in Mobile Device Programming
+- ☕️ Intermediate Java
+- 📱 Advanced Mobile Programming
 
 ### I have completed...
 - 🕸️ Certificate of Web Programming (Dec 2024)
