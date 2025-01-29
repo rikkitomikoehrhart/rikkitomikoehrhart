@@ -12,6 +12,7 @@ I am actively involved with **Phi Theta Kappa Honors Society** and **WIT (Women 
 - 👩‍🎨 Certificate of Coding & Design (May 2025)
 - 👩‍💻 Application into the Bachelors of Software Developemnt at Austin Community College
 - 🎶 Programming Intership with Hurley Piano!!!
+- 🍱 "Grab a Byte" lunchtime learning workshop for WIT (Women Information Technology) at ACC
 
 ### I am currently learning...
 - 🎮 Godot!
