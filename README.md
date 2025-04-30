@@ -7,19 +7,23 @@ I am actively involved with **Phi Theta Kappa Honors Society**, **WIT (Women Inf
 
 ---
 
+### I have accomplished...
+- 🏅Finalist for the Chancellor Student Achievement Award at Austin Community College (Spring 2025)
+- 🌟Community Choice Award and 2nd Highest Score Overall at the RiverHacks2025 Hackathon (Spring 2025)
+
+
 ### I am looking forward to...
 - 👩‍💻 Software Engineering Apprenticship with Visa! (Starting May 2025)
 
 ### I am currently working on...
 - 👩‍🎓 Associates of Applied Science Web Programming (May 2025)
 - 👩‍🎨 Certificate of Coding & Design (May 2025)
-- 👩‍💻 Application into the Bachelors of Software Developemnt at Austin Community College
+- 👩‍💻 Bachelors of Software Developemnt at Austin Community College
 - 🎶 Programming Intership with Hurley Piano!!!
 - 🍱 "[Grab a Byte](https://github.com/rikkitomikoehrhart/GrabAByte)" lunchtime learning workshop for WIT (Women Information Technology) at ACC
 
 ### I am currently learning...
 - 🎹 Practicum - CIT (Internship with Hurley Piano!)
-- 📱 Special Topics in Mobile Device Programming
 - 📱 Advanced Mobile Programming
 
 ### I have completed...
