@@ -8,7 +8,7 @@ I am actively involved with **Phi Theta Kappa Honors Society**, **WIT (Women Inf
 ---
 
 ### I have accomplished...
-- 🏅Finalist for the Chancellor Student Achievement Award at Austin Community College (Spring 2025)
+- 🏅Chancellor Student Achievement Award Recipient at Austin Community College (Spring 2025)
 - 🌟Community Choice Award and 2nd Highest Score Overall at the RiverHacks2025 Hackathon (Spring 2025)
 
 
